@@ -1,0 +1,5 @@
+meanDish/node_modules
+meanGames/node_modules
+meanDish/.env
+meanGames/.env
+.DS_Store
